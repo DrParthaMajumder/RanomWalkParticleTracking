@@ -7,7 +7,8 @@ Random walk particle tracking is a computational method used to simulate the tra
 3. Reactive contaminant transport simulation using the analytic element method, random walk particle tracking and kernel density estimator
 4. Majumder, P., Lu, C., Anshuman, A., Eldho, T.I. and Bhattacharjya, R.K., GPU accelerated parallel contaminant transport due to physical heterogeneity and mobile immobile mass transfer by integrating meshless radial point collocation method and variants of random walk.
 
-
+# Developer: Dr. Partha majumder
+# Email ID: parthamajpk@gmail.com
 
 # License
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
